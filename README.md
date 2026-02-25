@@ -1,0 +1,2 @@
+# bharat-health-ai.
+Bharat Health AI: An AI-powered healthcare assistant designed to provide affordable medical guidance, generic medicine alternatives, and home remedies for everyone in India. Dedicated to making healthcare accessible for just ₹1.
