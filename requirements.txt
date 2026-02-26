@@ -1,5 +1,4 @@
 streamlit
 google-generativeai
-gTTS
-fpdf
-
+gtts
+fpdf2  # better unicode support, pip install fpdf2
