@@ -137,4 +137,4 @@ else:
     if st.sidebar.button("🔄 New Patient"):
         st.session_state.paid = False
         st.rerun()
-                
+    
